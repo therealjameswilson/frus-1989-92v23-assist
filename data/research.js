@@ -90,6 +90,14 @@ window.FRUS_RESEARCH = {
       "category": "FOIA manifest",
       "use": "Cross-check Clinton-era high-level diplomatic records and document-page leads.",
       "status": "Seeded"
+    },
+    {
+      "id": "source-foia-C09000012",
+      "label": "October 30, 2026 State FOIA release — C09000012",
+      "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000012/C09000012.pdf",
+      "category": "Official FOIA PDF",
+      "use": "Primary source PDF; page links point to physical PDF pages.",
+      "status": "Released"
     }
   ],
   "document_candidates": [
@@ -128,6 +136,60 @@ window.FRUS_RESEARCH = {
       "date": "TBD",
       "status": "Search queue",
       "action": "Compare manifest hits against volume lanes and source-note needs."
+    },
+    {
+      "id": "foia-2026-10-C09000012",
+      "title": "NICARAGUAN ELECTIONS",
+      "repository": "U.S. Department of State FOIA Library",
+      "sourceLead": "source-foia-C09000012",
+      "date": "1990-03-02",
+      "status": "Reviewable lead; compiler selection pending",
+      "action": "The report directly addresses Nicaragua’s February 1990 election and U.S. diplomatic discussion of the transition, matching Volume XXIII’s 1989–1992 Central America scope. Cuba is a secondary cross-reference, not the placement basis.",
+      "caseNumber": "M-2014-23169",
+      "documentId": "C09000012",
+      "collection": "FOIA_M_Oct2026_3",
+      "postedDate": "2026-10-30",
+      "releaseBatch": "2026-10-30",
+      "reportingDateNote": "Report and meeting date: March 2, 1990. The report discusses the February 25 Nicaraguan election and its aftermath; February 25 is not the telegram date.",
+      "documentType": "Telegram",
+      "sender": "Embassy Santo Domingo",
+      "messageNumber": "1990 SANTO 002261",
+      "pdfUrl": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000012/C09000012.pdf",
+      "pageCount": 3,
+      "pageLinks": [
+        {
+          "page": 1,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000012/C09000012.pdf#page=1"
+        },
+        {
+          "page": 2,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000012/C09000012.pdf#page=2"
+        },
+        {
+          "page": 3,
+          "url": "https://foia.state.gov/DOCUMENTS/FOIA_M_Oct2026_3/M-2014-23169/DOC_0C09000012/C09000012.pdf#page=3"
+        }
+      ],
+      "copyCitation": "U.S. Department of State, Embassy Santo Domingo, telegram 1990 SANTO 002261, “NICARAGUAN ELECTIONS,” 1990-03-02, FOIA Library, case M-2014-23169, document C09000012, source PDF, pp. 1–3.",
+      "summary": "Ambassador Paul Taylor reports his March 2, 1990 meeting with President Joaquín Balaguer about Nicaragua’s election and the transition after Violeta Chamorro’s victory. They discuss regional democratic transitions and Cuba.",
+      "relevance": "The report directly addresses Nicaragua’s February 1990 election and U.S. diplomatic discussion of the transition, matching Volume XXIII’s 1989–1992 Central America scope. Cuba is a secondary cross-reference, not the placement basis.",
+      "textStatus": "Searchable embedded PDF text; not independently checked against the facsimile.",
+      "textNotice": "Search text may contain source OCR or local OCR errors. Blank, redacted, illegible, non-English, and handwriting content may not be searchable. No text was inferred or reconstructed from redactions. Page numbers are physical PDF pages, not printed page labels.",
+      "selectionDecision": "Pending compiler review; no final FRUS selection implied.",
+      "searchableText": [
+        {
+          "page": 1,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706272 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382109      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n       CONFIDENTIAL\n\n      PAGE 01   SANTO 02261 022155Z                           RELEASED IN FULL\n      ACTION ARA-01\n\n       INFO LOG-00 ADS-00  AID-01  INR-05  SS-01  CIAE-00 DODE-00\n          H-01   1O-19  NSCE-00 NSAE-00 SSO-01 HA-09  L-03\n          TRSE-00 PM-01  EAP-01 PA-01  OMB-01  INRE-00 ACDA-13\n           USIE-00 SP-01  SNP-01  C-01  PRS-01  P-02   T-01\n            /065 W\n                            273412 022158Z /61\n     O 022133Z MAR 90\n      FM AMEMBASSY SANTO DOMINGO\n      TO SECSTATE WASHDC IMMEDIATE 6125\n       INFO CONTADORA COLLECTIVE\n      AMEMBASSY BEIJING\n      AMEMBASSY SANTIAGO\n      USCINCLANT NORFOLK VA\n\n     CONFIDENTIALSANTODOMINGO 02261\n\n        E.O. 12356: DECL:OADR\n       TAGS: PREL, DR, NU\n       SUBJECT: NICARAGUAN ELECTIONS\n\n       REF: STATE 62152\n\n          1. CONFIDENTIAL - ENTIRE TEXT.\n\n          2.  I MET WITH PRESIDENT JOAQUIN BALAGUER MARCH 2 TO\n      DISCUSS THE NICARAGUAN ELECTIONS AS INSTRUCTED BY THE\n      REFTEL AND BEGAN BY COMMENTING THAT IT HAD BEEN A GOOD\n     WEEK FOR DEMOCRACY IN THE HEMISPHERE WITH THE\n      ELECTORAL RESULTS IN NICARAGUA. PRESIDENT BALAGUER\n       REPLIED THAT IT HAD BEEN SURPRISINGLY GOOD WITH THE\n      VICTORY OF MRS. CHAMORRO IN A PROCESS THAT WAS MORE\n        CIVIL THAN MOST PEOPLE EXPECTED. THE SANDINISTAS\n     SHOWED BY THEIR BEHAVIOR THAT THEY WOULD NOT FOLLOW\n      THE ERRORS OF NORIEGA, I.E. THEY HAD NO CHOICE BUT TO\n      RECOGNIZE THE WILL OF THE PEOPLE.  I ADDED THAT ALL\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 02   SANTO 02261 022155Z\n\n      DEMOCRATIC GOVERNMENTS AND PARTIES NOW HAD A\n       RESPONSIBILITY TO USE THEIR INFLUENCE TO MAKE CERTAIN\n      THAT THE TRANSITION WENT SMOOTHLY TO REFLECT THE\n      POPULAR WILL IN NICARAGUA. AS A DEMOCRACY OF\n       LONG-STANDING, THE DOMINICAN REPUBLIC HAD A PARTICULAR\n                                                              REVIEW AUTHORITY:      STATURE TO BRING TO THIS TASK, A POINT PRESIDENT\n                                                                              Charles Daris, Senior Reviewer      BALAGUER SAID HE ACCEPTED. PRESIDENT BALAGUER NOTED\n      THAT PRESIDENT BUSH HAD ASKED THE RESISTANCE FORCES TO\n      LAY DOWN THEIR ARMS. HE THOUGHT THAT THE NICARAGUAN\n      ELECTION RESULTS WOULD GO A LONG WAY TOWARD PACIFYING\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706272 Date: 11/22/2017"
+        },
+        {
+          "page": 2,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706272 Date: 11/22/2017\n\n                                     MR-2014-23169    B-00001382109      \"UNCLASSIFIED\"       9/25/2026\n\n\n\n      CENTRAL AMERICA,\n       ESPECIALLY EL SALVADOR AND GUATEMALA, AND THE POSITIVE\n      EFFECTS WOULD BE FELT THROUGHOUT THE HEMISPHERE.\n\n          3. RAISING THE SUBJECT OF CUBA, PRESIDENT BALAGUER\n      VOLUNTEERED THAT THE PEOPLE THERE MUST BE GETTING\n       IMPATIENT AND THAT THE POSITION OF FIDEL CASTRO HAD\n      BEEN GREATLY WEAKENED BY THE VOTE IN NICARAGUA. THE\n      CUBAN PUBLIC HAD BEEN AWAKENED AND WAS EXPECTING\n      CHANGE, MORE THAN AT ANY OTHER TIME IN THE LAST THIRTY\n       YEARS. HE ADDED THAT CUBANS WERE TIRED OF THE REGIME\n      UNDER WHICH THEY HAD HAD TO LIVE. HE THOUGHT THAT\n      THERE WOULD HAVE TO BE SOME CHANGES.  I ASKED HOW HE\n      THOUGHT CHANGE MIGHT COME, NOTING THAT THERE WAS\n       LITTLE EVIDENCE OF ANY CHANGE IN THE ATTITUDE OF\n      CASTRO HIMSELF. PRESIDENT BALAGUER RESPONDED THAT, IN\n       FACT, CASTRO SEEMED TO BE MORE RIGID THAN EVER AS\n      EVIDENCED IN HIS CONFRONTATION WITH GORBACHEV.\n      NONETHELESS, PRESIDENT BALAGUER THOUGHT THERE WAS\n      CONSIDERABLE UNREST BENEATH THE SURFACE IN CUBA AND\n      THAT THIS PRESENTED A VERY CLEAR CHALLENGE TO THE\n      CONTINUED ROLE OF FIDEL CASTRO.\n\n       CONFIDENTIAL\n\n       CONFIDENTIAL\n\n      PAGE 03   SANTO 02261 022155Z\n\n          4. PRESIDENT BALAGUER BROADENED THE SUBJECT TO\n     COMMENT ON WHAT HE CALLED HIGHLY ENCOURAGING CHANGES\n        IN EASTERN EUROPE, AND EVEN IN CHINA. HE SAID THAT\n      THE EVOLUTION OF POLITICS IN EASTERN EUROPE HAD PROVED\n      THAT NO COUNTRY WANTS TO LIVE IN SLAVERY. A RECENT\n        VISIT BY THE PRC AMBASSADOR TO COLOMBIA (SANTO DOMINGO\n        1817) CONVINCED HIM THAT THE CHINESE WANTED CLOSER\n      COMMERCIAL RELATIONS AND TO MODERNIZE THEIR OWN\n       SOCIETY, ALTHOUGH HE OFFERED NO CLEAR EVIDENCE OF\n       POLITICAL LIBERALIZATION.\n\n          5. SUMMARIZING HIS VIEWS, PRESIDENT BALAGUER\n      COMMENTED THAT PRESIDENT BUSH HAD RECENTLY ACHIEVED\n     TWO GREAT VICTORIES IN THE FORM OF NORIEGA'S OUSTER\n     FROM PANAMA AND MRS. CHAMORRO'S WIN IN NICARAGUA. HE\n      COMMENTED THAT AS A LEADER OF A \"NORMAL\" DEMOCRACY, HE\n      GREATLY WELCOMED THESE DEMOCRATIC ADVANCES ELSEWHERE\n        IN THE HEMISPHERE. AFTER WE DISCUSSED SOME OTHER\n       TOPICS (REPORTED IN SEPTEL), PRESIDENT BALAGUER ASKED\n      THAT I CONVEY TO PRESIDENT BUSH HIS WARM\n      CONGRATULATIONS. TAYLOR\n\n\n\n\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706272 Date: 11/22/2017"
+        },
+        {
+          "page": 3,
+          "text": "UNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706272 Date: 11/22/2017\n\nMR-2014-23169 B-00001382109 “UNCLASSIFIED” 9/25/2026\n\nCONFIDENTIAL\n\nNNNN\n\nUNCLASSIFIED U.S. Department of State Case No. M-2014-23169 Doc No. C05706272 Date: 11/22/2017"
+        }
+      ]
     }
   ],
   "chronology": [
